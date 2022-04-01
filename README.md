@@ -1,2 +1,2 @@
 # calculator
-This is a symple Java Script file. 
+This is a simple calculator created by using Java Script.  
